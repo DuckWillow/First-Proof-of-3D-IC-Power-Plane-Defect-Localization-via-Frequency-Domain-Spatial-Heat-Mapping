@@ -5,6 +5,8 @@ These 2 files are simulated S11 results from ANSYS HFSS, 2024 R2.
 
 Change the file name and click 'run all' will produce Fig. 6 (a-c) and Fig. 7 (a-c) in the paper.
 
+![alt text](https://github.com/DuckWillow/First-Proof-of-3D-IC-Power-Plane-Defect-Localization-via-Frequency-Domain-Spatial-Heat-Mapping/main/fig.png?raw=true)
+
 Thank you for citing my paper using:
 
 ```bibtex
