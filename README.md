@@ -7,4 +7,5 @@ Change the file name and click 'run all' will produce Fig. 6 (a-c) and Fig. 7 (a
 
 Thank you for citing my paper using:
 
+```bibtex
 @article{Shi_2025, title={First proof of 3D-IC power plane defect localization via Frequency Domain Spatial Heat Mapping}, DOI={10.1109/ectc51687.2025.00199}, journal={2025 IEEE 75th Electronic Components and Technology Conference (ECTC)}, author={Shi, Zhansen and Lum, Lucas and Zee, Bernice and Chin, Jiann Min and Lim, Yeow Kheng}, year={2025}, month={May}, pages={1153–1159}} 
